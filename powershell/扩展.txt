@@ -1,0 +1,5 @@
+https://github.com/romkatv/powerlevel10k 
+一个终端美化项目，在im30的window机器上并没有用到
+在im30，window机器安装oh-my-posh废了一些时间，感觉像是系统版本问题，winstore， winget等都无法安装，最后在网站上找了个http的安装方法算是好用了。
+安装oh-my-posh的命令可能是 Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
+查看：https://blog.csdn.net/satangele/article/details/135785794
